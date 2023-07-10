@@ -3,3 +3,10 @@
 # AmirHossein Kazemi
 
 Student and Learner in Web Development area with updated methods and new designs.
+
+## Skills
+
+### • Html
+### • Css
+### • C++
+
