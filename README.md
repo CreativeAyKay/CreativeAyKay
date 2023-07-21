@@ -9,4 +9,4 @@ Student and Learner in Web Development area with updated methods and new designs
 Html
 • Css
 • C++
-
+• JavaScript
